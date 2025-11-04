@@ -1,1 +1,2 @@
 # ExoplanetDetection
+A Python-based pipeline utilizing TESS Target Pixel Files (TPFs) and Box Least Squares (BLS) periodogram analysis to detect exoplanet transits. The repository includes data preprocessing, noise filtering, and periodicity detection to identify potential exoplanet candidates. Flux normalization, quality bitmasking, and statistical validation are applied to enhance signal clarity and ensure robust results.
